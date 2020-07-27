@@ -1,0 +1,36 @@
+.card{
+    border-radius: 7px;
+    padding: 0;
+    margin: 10px;
+    width: 230px;
+    height: 250px;
+    background-color: #fafafa;
+    box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .08);
+}
+
+.card img{
+    border-radius: 7px 7px 0 0;
+    height: 174px;
+    width: inherit;
+}
+
+.cardtext{
+    color: white;
+    padding: 15px 10px ;
+    bottom: 0;
+    width: inherit;
+    border-radius: 0 0 5px 5px;
+    background-color: #2F2F2F;
+    position: absolute;
+}
+
+.cardtext h4{
+    margin: 0;
+    margin-bottom: 10px;
+    padding: 0;
+}
+
+.cardtext p{
+    margin: 0;
+    padding: 0;
+}

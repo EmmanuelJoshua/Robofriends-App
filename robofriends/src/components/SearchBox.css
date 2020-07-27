@@ -1,0 +1,15 @@
+.app-search{
+    margin-left: auto;
+    margin-right: 5px;
+}
+
+.app-search .search-input{
+    border: 1px solid white ;
+    border-radius: 4px;
+    height: 35px;
+    overflow: hidden;
+    width: 210px;
+    padding-left: 7px;
+    padding-bottom: 2px;
+    box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .08);
+}
