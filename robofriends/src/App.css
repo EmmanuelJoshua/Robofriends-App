@@ -1,3 +1,9 @@
+.head{
+    font-size: 30px;
+    color: whitesmoke;
+    font-weight: 500;
+}
+
 .app{
     /* background: linear-gradient(to left, #016F70 0%, #091E48 100%); */
     width: 100%;
@@ -5,6 +11,8 @@
 }
 
 .app-header{
+    z-index: 999;
+    position: fixed;
     width: 100%;
     display: inline-flex;
     padding: 15px;
@@ -16,6 +24,5 @@
     font-size: 30px;
     color: whitesmoke;
     font-weight: 500;
-    /* font-family: 'Product sans light'; */
     margin: 0;
 }
